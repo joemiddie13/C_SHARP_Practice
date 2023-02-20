@@ -1,16 +1,32 @@
-C:\Users\JasonManibog\OneDrive - LearnKey, Inc\Desktop\Software Development Fundamentals\Domain3\bin\Debug\net5.0\Domain3.exe
-C:\Users\JasonManibog\OneDrive - LearnKey, Inc\Desktop\Software Development Fundamentals\Domain3\bin\Debug\net5.0\Domain3.deps.json
-C:\Users\JasonManibog\OneDrive - LearnKey, Inc\Desktop\Software Development Fundamentals\Domain3\bin\Debug\net5.0\Domain3.runtimeconfig.json
-C:\Users\JasonManibog\OneDrive - LearnKey, Inc\Desktop\Software Development Fundamentals\Domain3\bin\Debug\net5.0\Domain3.runtimeconfig.dev.json
-C:\Users\JasonManibog\OneDrive - LearnKey, Inc\Desktop\Software Development Fundamentals\Domain3\bin\Debug\net5.0\Domain3.dll
-C:\Users\JasonManibog\OneDrive - LearnKey, Inc\Desktop\Software Development Fundamentals\Domain3\bin\Debug\net5.0\ref\Domain3.dll
-C:\Users\JasonManibog\OneDrive - LearnKey, Inc\Desktop\Software Development Fundamentals\Domain3\bin\Debug\net5.0\Domain3.pdb
-C:\Users\JasonManibog\OneDrive - LearnKey, Inc\Desktop\Software Development Fundamentals\Domain3\obj\Debug\net5.0\Domain3.csproj.AssemblyReference.cache
-C:\Users\JasonManibog\OneDrive - LearnKey, Inc\Desktop\Software Development Fundamentals\Domain3\obj\Debug\net5.0\Domain3.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\JasonManibog\OneDrive - LearnKey, Inc\Desktop\Software Development Fundamentals\Domain3\obj\Debug\net5.0\Domain3.AssemblyInfoInputs.cache
-C:\Users\JasonManibog\OneDrive - LearnKey, Inc\Desktop\Software Development Fundamentals\Domain3\obj\Debug\net5.0\Domain3.AssemblyInfo.cs
-C:\Users\JasonManibog\OneDrive - LearnKey, Inc\Desktop\Software Development Fundamentals\Domain3\obj\Debug\net5.0\Domain3.csproj.CoreCompileInputs.cache
-C:\Users\JasonManibog\OneDrive - LearnKey, Inc\Desktop\Software Development Fundamentals\Domain3\obj\Debug\net5.0\Domain3.dll
-C:\Users\JasonManibog\OneDrive - LearnKey, Inc\Desktop\Software Development Fundamentals\Domain3\obj\Debug\net5.0\ref\Domain3.dll
-C:\Users\JasonManibog\OneDrive - LearnKey, Inc\Desktop\Software Development Fundamentals\Domain3\obj\Debug\net5.0\Domain3.pdb
-C:\Users\JasonManibog\OneDrive - LearnKey, Inc\Desktop\Software Development Fundamentals\Domain3\obj\Debug\net5.0\Domain3.genruntimeconfig.cache
+C:/Users/JasonManibog/OneDrive - LearnKey, Inc/Desktop/Software Development Fundamentals/Domain3/bin/Debug/net5.0/Domain3.exe
+C:/Users/JasonManibog/OneDrive - LearnKey, Inc/Desktop/Software Development Fundamentals/Domain3/bin/Debug/net5.0/Domain3.deps.json
+C:/Users/JasonManibog/OneDrive - LearnKey, Inc/Desktop/Software Development Fundamentals/Domain3/bin/Debug/net5.0/Domain3.runtimeconfig.json
+C:/Users/JasonManibog/OneDrive - LearnKey, Inc/Desktop/Software Development Fundamentals/Domain3/bin/Debug/net5.0/Domain3.runtimeconfig.dev.json
+C:/Users/JasonManibog/OneDrive - LearnKey, Inc/Desktop/Software Development Fundamentals/Domain3/bin/Debug/net5.0/Domain3.dll
+C:/Users/JasonManibog/OneDrive - LearnKey, Inc/Desktop/Software Development Fundamentals/Domain3/bin/Debug/net5.0/ref/Domain3.dll
+C:/Users/JasonManibog/OneDrive - LearnKey, Inc/Desktop/Software Development Fundamentals/Domain3/bin/Debug/net5.0/Domain3.pdb
+C:/Users/JasonManibog/OneDrive - LearnKey, Inc/Desktop/Software Development Fundamentals/Domain3/obj/Debug/net5.0/Domain3.csproj.AssemblyReference.cache
+C:/Users/JasonManibog/OneDrive - LearnKey, Inc/Desktop/Software Development Fundamentals/Domain3/obj/Debug/net5.0/Domain3.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/JasonManibog/OneDrive - LearnKey, Inc/Desktop/Software Development Fundamentals/Domain3/obj/Debug/net5.0/Domain3.AssemblyInfoInputs.cache
+C:/Users/JasonManibog/OneDrive - LearnKey, Inc/Desktop/Software Development Fundamentals/Domain3/obj/Debug/net5.0/Domain3.AssemblyInfo.cs
+C:/Users/JasonManibog/OneDrive - LearnKey, Inc/Desktop/Software Development Fundamentals/Domain3/obj/Debug/net5.0/Domain3.csproj.CoreCompileInputs.cache
+C:/Users/JasonManibog/OneDrive - LearnKey, Inc/Desktop/Software Development Fundamentals/Domain3/obj/Debug/net5.0/Domain3.dll
+C:/Users/JasonManibog/OneDrive - LearnKey, Inc/Desktop/Software Development Fundamentals/Domain3/obj/Debug/net5.0/ref/Domain3.dll
+C:/Users/JasonManibog/OneDrive - LearnKey, Inc/Desktop/Software Development Fundamentals/Domain3/obj/Debug/net5.0/Domain3.pdb
+C:/Users/JasonManibog/OneDrive - LearnKey, Inc/Desktop/Software Development Fundamentals/Domain3/obj/Debug/net5.0/Domain3.genruntimeconfig.cache
+/workspaces/C_Sharp_Practice/Domain3/bin/Debug/net5.0/Domain3
+/workspaces/C_Sharp_Practice/Domain3/bin/Debug/net5.0/Domain3.deps.json
+/workspaces/C_Sharp_Practice/Domain3/bin/Debug/net5.0/Domain3.runtimeconfig.json
+/workspaces/C_Sharp_Practice/Domain3/bin/Debug/net5.0/Domain3.runtimeconfig.dev.json
+/workspaces/C_Sharp_Practice/Domain3/bin/Debug/net5.0/Domain3.dll
+/workspaces/C_Sharp_Practice/Domain3/bin/Debug/net5.0/Domain3.pdb
+/workspaces/C_Sharp_Practice/Domain3/obj/Debug/net5.0/Domain3.csproj.AssemblyReference.cache
+/workspaces/C_Sharp_Practice/Domain3/obj/Debug/net5.0/Domain3.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/C_Sharp_Practice/Domain3/obj/Debug/net5.0/Domain3.AssemblyInfoInputs.cache
+/workspaces/C_Sharp_Practice/Domain3/obj/Debug/net5.0/Domain3.AssemblyInfo.cs
+/workspaces/C_Sharp_Practice/Domain3/obj/Debug/net5.0/Domain3.csproj.CoreCompileInputs.cache
+/workspaces/C_Sharp_Practice/Domain3/obj/Debug/net5.0/Domain3.dll
+/workspaces/C_Sharp_Practice/Domain3/obj/Debug/net5.0/refint/Domain3.dll
+/workspaces/C_Sharp_Practice/Domain3/obj/Debug/net5.0/Domain3.pdb
+/workspaces/C_Sharp_Practice/Domain3/obj/Debug/net5.0/Domain3.genruntimeconfig.cache
+/workspaces/C_Sharp_Practice/Domain3/obj/Debug/net5.0/ref/Domain3.dll

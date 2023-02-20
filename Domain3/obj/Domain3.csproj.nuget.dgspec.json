@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\JasonManibog\\OneDrive - LearnKey, Inc\\Desktop\\Software Development Fundamentals\\Domain3\\Domain3.csproj": {}
+    "/workspaces/C_Sharp_Practice/Domain3/Domain3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\JasonManibog\\OneDrive - LearnKey, Inc\\Desktop\\Software Development Fundamentals\\Domain3\\Domain3.csproj": {
+    "/workspaces/C_Sharp_Practice/Domain3/Domain3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JasonManibog\\OneDrive - LearnKey, Inc\\Desktop\\Software Development Fundamentals\\Domain3\\Domain3.csproj",
+        "projectUniqueName": "/workspaces/C_Sharp_Practice/Domain3/Domain3.csproj",
         "projectName": "Domain3",
-        "projectPath": "C:\\Users\\JasonManibog\\OneDrive - LearnKey, Inc\\Desktop\\Software Development Fundamentals\\Domain3\\Domain3.csproj",
-        "packagesPath": "C:\\Users\\JasonManibog\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JasonManibog\\OneDrive - LearnKey, Inc\\Desktop\\Software Development Fundamentals\\Domain3\\obj\\",
+        "projectPath": "/workspaces/C_Sharp_Practice/Domain3/Domain3.csproj",
+        "packagesPath": "/home/codespace/.nuget/packages/",
+        "outputPath": "/workspaces/C_Sharp_Practice/Domain3/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\JasonManibog\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/codespace/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -43,16 +43,31 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.linux-x64",
+              "version": "[5.0.17, 5.0.17]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/dotnet/7.0.200/sdk/7.0.200/RuntimeIdentifierGraph.json"
         }
       }
     }

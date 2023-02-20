@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Weiplz2/joJ0ETR7PwZITD+4P2Ga1Z1GmuJZlGnC0g78zS9xukSCsfgdMg6TUZ0mKJZaBZzIyhcvbSdiIKW7dA==",
+  "dgSpecHash": "hklM3gaCi6gAeWXuM14kmnOZI3H48qkgxI1q9+aDLfNqRSh5LZLuJ/Qaf+TVvp5lrQrhDoEHinBDFzWKWlpagw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\JasonManibog\\OneDrive - LearnKey, Inc\\Desktop\\Software Development Fundamentals\\Domain3\\Domain3.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/workspaces/C_Sharp_Practice/Domain3/Domain3.csproj",
+  "expectedPackageFiles": [
+    "/home/codespace/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.netcore.app.host.linux-x64/5.0.17/microsoft.netcore.app.host.linux-x64.5.0.17.nupkg.sha512"
+  ],
   "logs": []
 }
