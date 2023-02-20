@@ -1,0 +1,51 @@
+using System;
+namespace example
+{
+class Program
+{
+    static void Main(string[] args)
+    {
+     ToyCar toyCar1 = new ToyCar("Roadster","Red",16,4);
+     
+     Console.WriteLine("The Monster truck sale price is {0}", toyTruck1.salePrice());
+     }
+
+}
+
+interface Toy
+{
+    void salePrice();
+    void clearancePrice();
+}
+
+public class ToyCar: Toy
+{
+    private double price;
+    public string Name;
+    public string Color;
+    public virtual double Price;
+
+    {
+        get
+        {
+         return price;
+        }
+        set
+        {
+         if (value > 0)
+              price = value;
+         }
+    public double salePrice()
+	{
+	    return price * .75
+	}
+    public double clearancePrice()
+	{
+	    return price * .5
+	}
+
+    
+
+}
+
+

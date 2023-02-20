@@ -1,0 +1,45 @@
+using System;
+namespace example
+{
+class Program
+{
+   static void Main(string[] args)
+    {
+      ToyCar toyCar1 = new ToyCar {Color="Green", Price=16};
+     
+     Console.WriteLine("The green {0} sale price is {1}", ToyCar.Name, toyCar1.salePrice());
+    }
+    }   
+    
+
+public class ToyCar
+{
+     private double price;
+    public static string Name
+    {
+	get {return "Sedan";}
+    }
+    public string Color;
+    public double Price
+
+    {
+        get
+        {
+         return price;
+        }
+        set
+        {
+         if (value > 0)
+              price = value;
+         }
+    }    
+    public double salePrice()
+    {
+        return price * .75;
+	 
+    }
+ 
+}
+
+    }
+}

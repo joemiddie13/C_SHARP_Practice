@@ -1,0 +1,19 @@
+class ToyCar
+{
+    public string name;
+    public string color; 
+    public double price; 
+
+
+    
+    public double salePrice()
+    {
+        return price * .75;
+    }
+
+    public ToyCar(string name, string color, double price) {
+        this.name = name;
+        this.color = color;
+        this.price = price;
+    }
+}

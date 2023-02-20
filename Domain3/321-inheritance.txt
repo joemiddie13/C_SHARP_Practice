@@ -1,0 +1,63 @@
+using System;
+namespace example
+{
+class Program
+{
+   static void Main(string[] args)
+    {
+     ToyTruck toyTruck1 = new ToyTruck("Monster","Beige",20,4);
+     
+     Console.WriteLine("The Monster truck price is {0}", toyTruck1.Price);
+
+    }
+    
+    
+
+class ToyCar
+{
+    private double price;
+    public string Name;
+    public string Color;
+    public double Price
+
+    {
+        get
+        {
+         return price;
+        }
+        set
+        {
+         if (value > 0)
+              price = value;
+         }
+    }
+    public double salePrice()
+    {
+        
+	    return price * .75;
+    }
+    
+    public ToyCar(string Name, string Color, double Price)  {
+        this.Name = Name;
+        this.Color = Color;
+        this.Price = Price;
+    }
+
+    public ToyCar() {}
+
+} 
+
+class ToyTruck: ToyCar
+{
+	
+	public int Doors;
+
+    public ToyTruck(string name, string color, double price, int doors)
+    {
+	 Name = name;
+	 Color = color;
+	 Price = price;
+     Doors = doors;
+	}
+}
+    }

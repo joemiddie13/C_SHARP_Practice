@@ -1,0 +1,23 @@
+using System;
+namespace example
+{
+class Program
+{
+    static void Main(string[] args)
+    {
+      int item1 = InventoryWorth(20,10);
+      double item2 = InventoryWorth(19.99, 5);
+      Console.WriteLine ("Item1 value is {0}", item1);
+      Console.WriteLine ("Item2 value is {0}", item2);
+     }
+
+}
+
+static int InventoryWorth(int n, int p)
+{
+	return n * p
+}
+static double InventoryWorth(double n, double p)
+{
+	return n * p
+}

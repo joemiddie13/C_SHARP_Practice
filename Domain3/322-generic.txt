@@ -1,0 +1,20 @@
+using System;
+namespace example
+{
+class Program
+{
+    static void Main(string[] args)
+    {
+     ToyIDField<string> toyID1 = new ToyIDField<string>();
+	toyID1.ToyID = "CAR001";
+     ToyIDField<int> toyID2 = new ToyIDField<int>();
+	toyID1.ToyID = 33333;
+     }
+
+}
+
+class ToyIDField<T>
+{
+	public T ToyID {get; set; }
+}
+
