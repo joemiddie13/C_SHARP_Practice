@@ -3,8 +3,10 @@
     static void Main(string[] args)
     {
         Car car1 = new Car("Ford", "Mustang", 2022, "red");
+        Car car2 = new Car("Chevy", "Corvette", 2021, "blue");
 
         car1.Drive();
+        car2.Drive();
 
         Console.ReadKey();
     }
