@@ -1,25 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/C_Sharp_Practice/Domain3/Domain3.csproj": {}
+    "/Users/joemiddie13/Documents/GitHub/C_SHARP_Practice/Domain3/Domain3.csproj": {}
   },
   "projects": {
-    "/workspaces/C_Sharp_Practice/Domain3/Domain3.csproj": {
+    "/Users/joemiddie13/Documents/GitHub/C_SHARP_Practice/Domain3/Domain3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/C_Sharp_Practice/Domain3/Domain3.csproj",
+        "projectUniqueName": "/Users/joemiddie13/Documents/GitHub/C_SHARP_Practice/Domain3/Domain3.csproj",
         "projectName": "Domain3",
-        "projectPath": "/workspaces/C_Sharp_Practice/Domain3/Domain3.csproj",
-        "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/C_Sharp_Practice/Domain3/obj/",
+        "projectPath": "/Users/joemiddie13/Documents/GitHub/C_SHARP_Practice/Domain3/Domain3.csproj",
+        "packagesPath": "/Users/joemiddie13/.nuget/packages/",
+        "outputPath": "/Users/joemiddie13/Documents/GitHub/C_SHARP_Practice/Domain3/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/codespace/.nuget/NuGet/NuGet.Config"
+          "/Users/joemiddie13/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -54,7 +55,7 @@
               "version": "[5.0.0, 5.0.0]"
             },
             {
-              "name": "Microsoft.NETCore.App.Host.linux-x64",
+              "name": "Microsoft.NETCore.App.Host.osx-x64",
               "version": "[5.0.17, 5.0.17]"
             },
             {
@@ -67,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/dotnet/7.0.200/sdk/7.0.200/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
         }
       }
     }
