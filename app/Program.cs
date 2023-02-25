@@ -14,7 +14,15 @@ namespace MyFirstProgram
 
             Console.WriteLine(car.speed);
             Console.WriteLine(car.wheels);
-            Console.WriteLine(car.go);
+            car.go();
+
+            Console.WriteLine(bicycle.speed);
+            Console.WriteLine(bicycle.wheels);
+            bicycle.go();
+
+            Console.WriteLine(boat.speed);
+            Console.WriteLine(boat.wheels);
+            boat.go();
 
             Console.ReadKey();
         }
