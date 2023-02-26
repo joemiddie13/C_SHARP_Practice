@@ -10,15 +10,15 @@ namespace MyFirstSamuraiProgram
             //                Objects can be identified by more than one type
             //                Ex. A Dog is also: Canine, Animal, Organism
 
-            Car car = new Car();
-            Bicycle bicycle = new Bicycle();
-            Boat boat = new Boat();
+            Sword sword = new Sword();
+            Bow bow = new Bow();
+            Horse horse = new Horse();
 
-            Samurai[] samurai = {car, bicycle, boat};
+            Samurai[] samurai = {sword, bow, horse};
 
-            foreach (Vehicle vehicle in vehicles)
+            foreach (Samurai samurai in samurais)
             {
-                vehicle.Go();
+                samurai.Go();
             }
            
             Console.ReadKey();
