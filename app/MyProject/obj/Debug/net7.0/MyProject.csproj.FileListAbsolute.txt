@@ -1,0 +1,15 @@
+/Users/joemiddie13/Documents/GitHub/C_SHARP_Practice/app/MyProject/bin/Debug/net7.0/MyProject
+/Users/joemiddie13/Documents/GitHub/C_SHARP_Practice/app/MyProject/bin/Debug/net7.0/MyProject.deps.json
+/Users/joemiddie13/Documents/GitHub/C_SHARP_Practice/app/MyProject/bin/Debug/net7.0/MyProject.runtimeconfig.json
+/Users/joemiddie13/Documents/GitHub/C_SHARP_Practice/app/MyProject/bin/Debug/net7.0/MyProject.dll
+/Users/joemiddie13/Documents/GitHub/C_SHARP_Practice/app/MyProject/bin/Debug/net7.0/MyProject.pdb
+/Users/joemiddie13/Documents/GitHub/C_SHARP_Practice/app/MyProject/obj/Debug/net7.0/MyProject.csproj.AssemblyReference.cache
+/Users/joemiddie13/Documents/GitHub/C_SHARP_Practice/app/MyProject/obj/Debug/net7.0/MyProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joemiddie13/Documents/GitHub/C_SHARP_Practice/app/MyProject/obj/Debug/net7.0/MyProject.AssemblyInfoInputs.cache
+/Users/joemiddie13/Documents/GitHub/C_SHARP_Practice/app/MyProject/obj/Debug/net7.0/MyProject.AssemblyInfo.cs
+/Users/joemiddie13/Documents/GitHub/C_SHARP_Practice/app/MyProject/obj/Debug/net7.0/MyProject.csproj.CoreCompileInputs.cache
+/Users/joemiddie13/Documents/GitHub/C_SHARP_Practice/app/MyProject/obj/Debug/net7.0/MyProject.dll
+/Users/joemiddie13/Documents/GitHub/C_SHARP_Practice/app/MyProject/obj/Debug/net7.0/refint/MyProject.dll
+/Users/joemiddie13/Documents/GitHub/C_SHARP_Practice/app/MyProject/obj/Debug/net7.0/MyProject.pdb
+/Users/joemiddie13/Documents/GitHub/C_SHARP_Practice/app/MyProject/obj/Debug/net7.0/MyProject.genruntimeconfig.cache
+/Users/joemiddie13/Documents/GitHub/C_SHARP_Practice/app/MyProject/obj/Debug/net7.0/ref/MyProject.dll
